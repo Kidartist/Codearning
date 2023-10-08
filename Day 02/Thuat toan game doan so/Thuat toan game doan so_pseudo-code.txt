@@ -1,7 +1,8 @@
 Begin
-    Input Math
-    Input Physics
-    Input Chemistry
-    Average=(Math+Physics+CHemistry)/3
-    Display Average
+    Input N là số ngẫu nhiên 0 đến 9
+    Input M
+    If (M==N)
+         Display "Dự đoán đúng"
+    Else
+         Display "Dự đoán sai"
 End
